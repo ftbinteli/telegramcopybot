@@ -93,5 +93,25 @@ There are 3 ways to use CHANGE_FOR
 
 /delete_url_from_message VALUE
 --------------------
+/wiev_signature_string - Display the signature string. This string will be added in the end of all the messages
+--------------------
+/add_signature_string - Add signature string. 
+
+/add_signature_string SIGNATURE_STRING
+--------------------
+/delete_signature_string - Remove signature string. 
+
+/delete_signature_string delete
+--------------------
 """
         return message_control_msg
+    
+    def settings_control():
+        settings_control_msg = """
+--------------------
+/download_log - Send this request to bot to download your log file. 
+--------------------
+/save_settings - This is required to save the new settings in the .env file. Unsaved settings will be lost after the bot restart.
+--------------------
+"""
+        return settings_control_msg

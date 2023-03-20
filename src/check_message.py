@@ -3,7 +3,7 @@ from urlextract import URLExtract
 from re import sub
 
 
-def checkMgs(userMessage, THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE):
+def checkMgs(userMessage, THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE, SIGNATURE_STRING):
     if THROW_IF_MESSAGE_CONSIST_URL:
         urlExtract = URLExtract()
         urls = urlExtract.find_urls(userMessage)
@@ -45,7 +45,9 @@ def checkMgs(userMessage, THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE)
         userMessage = blacklistCheck(userMessage)
 
     userMessage = sub(' +', ' ', userMessage)
+    userMessage += "\n" + SIGNATURE_STRING
     return userMessage
+
 
 def find_index_of_channel(findIndexOf, findIndexIn):
     for i in range(len(findIndexIn)):

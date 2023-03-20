@@ -43,12 +43,13 @@ async def sender_bH(event):
     global FORWARD_IF_MESSAGE_CONSIST_WORDS
     global THROW_IF_MESSAGE_CONSIST_URL
     global DELETE_URL_FROM_MESSAGE
+    global SIGNATURE_STRING
 
     sender = await event.get_sender()
     sender_id = sender.id
     userMessage = str(event.message.message)
     userMessage = checkMgs(
-        userMessage, THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE)
+        userMessage, THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE, SIGNATURE_STRING)
 
     # Log variables
     message_id = event.message.id
@@ -103,6 +104,7 @@ async def handler(event):
     global FORWARD_IF_MESSAGE_CONSIST_WORDS
     global THROW_IF_MESSAGE_CONSIST_URL
     global DELETE_URL_FROM_MESSAGE
+    global SIGNATURE_STRING
 
     userMessage = str(event.message.message)
     userId = event.sender_id
@@ -119,6 +121,7 @@ async def handler(event):
         try:
             await bot_client_telethon.send_message(userId, help_message.source_control())
             await bot_client_telethon.send_message(userId, help_message.message_control())
+            await bot_client_telethon.send_message(userId, help_message.settings_control())
             info(m(bot_interaction=True, message_id=message_id, message_date=str(
                 message_date), command_sent=userMessage, log_message="Help message sent to user."))
             userMessage = ""
@@ -554,7 +557,7 @@ async def handler(event):
                 msg_to_send = "Unknown command."
 
     # handle download_log
-    elif userMessage.startswith("/download_log"):
+    elif userMessage == "/download_log":
         list_of_files = os.listdir('log')
         for file in list_of_files:
             try:
@@ -568,7 +571,7 @@ async def handler(event):
         userMessage = ""
 
     # Handle save settings
-    elif userMessage.startswith("/save_settings"):
+    elif userMessage == "/save_settings":
         with open(".env", "w") as f:
             f.write(f"APP_ID={APP_ID}\n")
             f.write(f"API_HASH={API_HASH}\n")
@@ -589,8 +592,49 @@ async def handler(event):
             f.write(
                 f"THROW_IF_MESSAGE_CONSIST_URL={THROW_IF_MESSAGE_CONSIST_URL}\n")
             f.write(f"DELETE_URL_FROM_MESSAGE={DELETE_URL_FROM_MESSAGE}\n")
+            f.write(f"SIGNATURE_STRING={SIGNATURE_STRING}\n")
 
         msg_to_send = "Settings saved into .env file."
+
+    # Handle wiev_signature_string
+    elif userMessage == "/wiev_signature_string":
+        msg_to_send = "This string will be added in the end of all the messages:\n" + \
+            '"' + SIGNATURE_STRING + '"'
+
+    # Handle add_signature_string
+    elif userMessage.startswith("/add_signature_string"):
+        userCommand = find_command(userMessage, 22)
+        spaceInStr = space_pos(userMessage, 21)
+
+        if spaceInStr == None or userCommand == None:
+            msg_to_send = "Please send the command to bot in the following format\n\n/add_signature_string SIGNATURE_STRING"
+        else:
+            if userCommand == SIGNATURE_STRING:
+                msg_to_send = f'{userCommand} is already your signature string.'
+            else:
+                userCommand = SIGNATURE_STRING
+                info(m(log_message="SIGNATURE_STRING is updated."))
+
+                msg_to_send = f"Signature string is updated.\n\nYour new signature string is:\n'{SIGNATURE_STRING}'"
+
+    # Handle delete_signature_string
+    elif userMessage.startswith("/delete_signature_string"):
+        userCommand = find_command(userMessage, 25)
+        spaceInStr = space_pos(userMessage, 24)
+
+        if spaceInStr == None or userCommand == None:
+            msg_to_send = "This string will be added in the end of all the messages:\n" + '"' + SIGNATURE_STRING + '"' +\
+                "\n\nIf you would like to delete signature string, please send the command to bot in the following format\n\n/delete_signature_string delete"
+
+        else:
+            if userCommand == "delete":
+                SIGNATURE_STRING = ""
+                info(m(log_message="SIGNATURE_STRING is deleted."))
+
+                msg_to_send = f"Signature string is deleted."
+
+            else:
+                msg_to_send = f'Unknown command. If you would like to delete signature string, please send the command to bot in the following format\n\n/delete_signature_string delete'
 
     # Handle other messages
     else:

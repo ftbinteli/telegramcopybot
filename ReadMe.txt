@@ -39,11 +39,26 @@
 
     n. "DELETE_URL_FROM_MESSAGE" – Enter 1 or 0. If you enter 1, bot will forward the message but URL(s) will be deleted from the message.
 
+    o. "SIGNATURE_STRING" - Type the string to add in the end of the message. Use \n to make new line (enter).
+
     ATTENTION: If you will enter 1 for the THROW_IF_MESSAGE_CONSIST_URL, DELETE_URL_FROM_MESSAGE should be 0, reversible. But if you will enter 0 or 1 for both THROW_IF_MESSAGE_CONSIST_URL and DELETE_URL_FROM_MESSAGE, the bot will not proccess URL(s)'s in the message and directly forward the URL(s).
 
 2.	Clone the repo in your Heroku, CPanel or any any other platform where you can run a python app.
 3.	Run: python3 main.py
 
+--------------------
+
 Important note: None of the fields should end with ";". Semicolon ";" is just seperator, if you will use it in the end of the field, bot wont be able to work.
 
+--------------------
+
 Important note: The first setup needs to be done with .env file. After the first setup, you can change all the settings of the bot via the bot you created. After you run the bot, type /start or /help in the bot. Bot will help you with the settings.
+
+--------------------
+
+Important note: If the settings of the bot will be changed after the bot runned, following request should be sent to bot.
+
+/save_settings - This is required to save the new settings in the .env file. Unsaved settings will be lost after the bot restart.
+
+--------------------
+
