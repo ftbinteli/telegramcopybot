@@ -1,0 +1,12 @@
+{"log_time": "21 Mar 2023 20:45:53", "log_lvl": "INFO", "log_message": Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)}
+{"log_time": "21 Mar 2023 20:45:53", "log_lvl": "INFO", "log_message": cryptg module not installed and libssl not found, falling back to (slower) Python encryption}
+{"log_time": "21 Mar 2023 20:45:54", "log_lvl": "INFO", "log_message": Bot is starting...}
+{"log_time": "21 Mar 2023 20:45:54", "log_lvl": "INFO", "log_message": Connecting to 149.154.175.51:443/TcpFull...}
+{"log_time": "21 Mar 2023 20:45:54", "log_lvl": "INFO", "log_message": Connection to 149.154.175.51:443/TcpFull complete!}
+{"log_time": "21 Mar 2023 20:45:55", "log_lvl": "INFO", "log_message": Telethon client connection have been set successfully.}
+{"log_time": "21 Mar 2023 20:45:55", "log_lvl": "INFO", "log_message": Connecting to 149.154.175.54:443/TcpFull...}
+{"log_time": "21 Mar 2023 20:45:55", "log_lvl": "INFO", "log_message": Connection to 149.154.175.54:443/TcpFull complete!}
+{"log_time": "21 Mar 2023 20:45:55", "log_lvl": "INFO", "log_message": Telethon bot client connection have been set successfully.}
+{"log_time": "21 Mar 2023 20:45:55", "log_lvl": "INFO", "log_message": Bot started.}
+{"log_time": "21 Mar 2023 20:46:13", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6793, "message_date": "2023-03-21 23:46:22+00:00", "command_sent": "/start", "log_message": "Message Captured."}}
+{"log_time": "21 Mar 2023 20:46:14", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6793, "message_date": "2023-03-21 23:46:22+00:00", "command_sent": "/start", "log_message": "Help message sent to user."}}
