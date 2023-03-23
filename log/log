@@ -1544,3 +1544,381 @@
 {"log_time": "22 Mar 2023 18:35:23", "log_lvl": "INFO", "log_message": Disconnecting from 149.154.175.51:443/TcpFull...}
 {"log_time": "22 Mar 2023 18:35:23", "log_lvl": "INFO", "log_message": Disconnection from 149.154.175.51:443/TcpFull complete!}
 {"log_time": "22 Mar 2023 18:35:23", "log_lvl": "INFO", "log_message": Not disconnecting (already have no connection)}
+{"log_time": "22 Mar 2023 19:13:55", "log_lvl": "INFO", "log_message": Failed to load SSL library: <class 'OSError'> (no library called "ssl" found)}
+{"log_time": "22 Mar 2023 19:13:55", "log_lvl": "INFO", "log_message": cryptg module not installed and libssl not found, falling back to (slower) Python encryption}
+{"log_time": "22 Mar 2023 19:13:56", "log_lvl": "INFO", "log_message": Bot is starting...}
+{"log_time": "22 Mar 2023 19:13:56", "log_lvl": "INFO", "log_message": Connecting to 149.154.175.51:443/TcpFull...}
+{"log_time": "22 Mar 2023 19:13:56", "log_lvl": "INFO", "log_message": Connection to 149.154.175.51:443/TcpFull complete!}
+{"log_time": "22 Mar 2023 19:13:57", "log_lvl": "INFO", "log_message": Telethon client connection have been set successfully.}
+{"log_time": "22 Mar 2023 19:13:57", "log_lvl": "INFO", "log_message": Connecting to 149.154.175.54:443/TcpFull...}
+{"log_time": "22 Mar 2023 19:13:57", "log_lvl": "INFO", "log_message": Connection to 149.154.175.54:443/TcpFull complete!}
+{"log_time": "22 Mar 2023 19:13:58", "log_lvl": "INFO", "log_message": Telethon bot client connection have been set successfully.}
+{"log_time": "22 Mar 2023 19:13:58", "log_lvl": "INFO", "log_message": Bot started.}
+{"log_time": "22 Mar 2023 19:17:38", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:17:58", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:19:54", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:20:21", "log_lvl": "INFO", "log_message": {"message_id": 4452, "message_date": "2023-03-22 22:20:21+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:20:21", "log_lvl": "INFO", "log_message": {"message_id": 4452, "message_date": "2023-03-22 22:20:21+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:20:21.819856", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:21:14", "log_lvl": "INFO", "log_message": {"message_id": 4453, "message_date": "2023-03-22 22:21:14+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:21:14", "log_lvl": "INFO", "log_message": {"message_id": 4453, "message_date": "2023-03-22 22:21:14+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:21:14.968745", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:21:15", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 19:21:15", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 19:23:00", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:24:50", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:24:50", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:25:51", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:27:19", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:27:19", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:28:57", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:28:57", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:28:58", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:28:58", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:28:58", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:28:59", "log_lvl": "INFO", "log_message": Got difference for channel 1079131412 updates}
+{"log_time": "22 Mar 2023 19:29:00", "log_lvl": "INFO", "log_message": Got difference for channel 1792304302 updates}
+{"log_time": "22 Mar 2023 19:29:01", "log_lvl": "INFO", "log_message": Got difference for channel 1576687452 updates}
+{"log_time": "22 Mar 2023 19:32:28", "log_lvl": "INFO", "log_message": {"message_id": 4454, "message_date": "2023-03-22 22:32:28+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:32:28", "log_lvl": "INFO", "log_message": {"message_id": 4454, "message_date": "2023-03-22 22:32:28+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:32:28.848406", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:35:08", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:38:24", "log_lvl": "INFO", "log_message": {"message_id": 4455, "message_date": "2023-03-22 22:38:24+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:38:24", "log_lvl": "INFO", "log_message": {"message_id": 4455, "message_date": "2023-03-22 22:38:24+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:38:24.347016", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:39:12", "log_lvl": "INFO", "log_message": {"message_id": 4456, "message_date": "2023-03-22 22:39:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:39:13", "log_lvl": "INFO", "log_message": {"message_id": 4456, "message_date": "2023-03-22 22:39:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:39:13.120973", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:39:13", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 19:39:13", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 19:41:45", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:43:57", "log_lvl": "INFO", "log_message": Got difference for channel 1554023949 updates}
+{"log_time": "22 Mar 2023 19:43:58", "log_lvl": "INFO", "log_message": Got difference for channel 1823322162 updates}
+{"log_time": "22 Mar 2023 19:43:58", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 19:46:38", "log_lvl": "INFO", "log_message": {"message_id": 4457, "message_date": "2023-03-22 22:46:38+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:46:38", "log_lvl": "INFO", "log_message": {"message_id": 4457, "message_date": "2023-03-22 22:46:38+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:46:38.459016", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:47:18", "log_lvl": "INFO", "log_message": {"message_id": 4458, "message_date": "2023-03-22 22:47:18+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:47:18", "log_lvl": "INFO", "log_message": {"message_id": 4458, "message_date": "2023-03-22 22:47:18+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:47:18.470988", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:47:18", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 19:47:19", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 19:47:33", "log_lvl": "INFO", "log_message": {"message_id": 4459, "message_date": "2023-03-22 22:47:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:47:33", "log_lvl": "INFO", "log_message": {"message_id": 4459, "message_date": "2023-03-22 22:47:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:47:33.957542", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:48:01", "log_lvl": "INFO", "log_message": {"message_id": 4460, "message_date": "2023-03-22 22:48:01+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:48:01", "log_lvl": "INFO", "log_message": {"message_id": 4460, "message_date": "2023-03-22 22:48:01+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:48:01.925871", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:50:08", "log_lvl": "INFO", "log_message": {"message_id": 4461, "message_date": "2023-03-22 22:50:08+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:50:08", "log_lvl": "INFO", "log_message": {"message_id": 4461, "message_date": "2023-03-22 22:50:08+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:50:08.384951", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:52:30", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:53:47", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:53:57", "log_lvl": "INFO", "log_message": {"message_id": 4462, "message_date": "2023-03-22 22:53:57+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:53:58", "log_lvl": "INFO", "log_message": {"message_id": 4462, "message_date": "2023-03-22 22:53:57+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:53:58.239999", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:54:28", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:54:40", "log_lvl": "INFO", "log_message": {"message_id": 4463, "message_date": "2023-03-22 22:54:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:54:40", "log_lvl": "INFO", "log_message": {"message_id": 4463, "message_date": "2023-03-22 22:54:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:54:40.932853", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:55:08", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:55:08", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 19:55:08", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 19:56:07", "log_lvl": "INFO", "log_message": {"message_id": 4464, "message_date": "2023-03-22 22:56:07+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 19:56:08", "log_lvl": "INFO", "log_message": {"message_id": 4464, "message_date": "2023-03-22 22:56:07+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 22:56:08.025128", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 19:56:21", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 19:56:21", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:57:00", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:57:00", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 19:58:16", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:58:16", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 19:58:16", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 19:58:54", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:00:50", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:01:26", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:01:26", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 20:03:23", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:04:03", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:04:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:04:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:04:44", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 20:07:58", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:09:14", "log_lvl": "INFO", "log_message": Got difference for channel 1558324974 updates}
+{"log_time": "22 Mar 2023 20:09:16", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 20:09:17", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:11:46", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:13:59", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 20:19:12", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:19:52", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:24:31", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 20:27:00", "log_lvl": "INFO", "log_message": {"message_id": 4465, "message_date": "2023-03-22 23:27:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:27:00", "log_lvl": "INFO", "log_message": {"message_id": 4465, "message_date": "2023-03-22 23:27:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:27:00.742272", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:27:42", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:27:50", "log_lvl": "INFO", "log_message": {"message_id": 4466, "message_date": "2023-03-22 23:27:50+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:27:50", "log_lvl": "INFO", "log_message": {"message_id": 4466, "message_date": "2023-03-22 23:27:50+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:27:50.354543", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:27:50", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 20:27:51", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 20:28:18", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:28:54", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:28:54", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:28:59", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 20:33:35", "log_lvl": "INFO", "log_message": {"message_id": 4467, "message_date": "2023-03-22 23:33:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:33:35", "log_lvl": "INFO", "log_message": {"message_id": 4467, "message_date": "2023-03-22 23:33:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:33:35.349614", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:33:35", "log_lvl": "INFO", "log_message": Got difference for channel 1597010576 updates}
+{"log_time": "22 Mar 2023 20:34:23", "log_lvl": "INFO", "log_message": {"message_id": 4468, "message_date": "2023-03-22 23:34:23+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:34:24", "log_lvl": "INFO", "log_message": {"message_id": 4468, "message_date": "2023-03-22 23:34:23+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:34:24.205410", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:34:29", "log_lvl": "INFO", "log_message": {"message_id": 4469, "message_date": "2023-03-22 23:34:29+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:34:29", "log_lvl": "INFO", "log_message": {"message_id": 4469, "message_date": "2023-03-22 23:34:29+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:34:29.879783", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:35:20", "log_lvl": "INFO", "log_message": {"message_id": 4470, "message_date": "2023-03-22 23:35:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:35:20", "log_lvl": "INFO", "log_message": {"message_id": 4470, "message_date": "2023-03-22 23:35:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:35:20.953529", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:35:21", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 20:36:50", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 20:36:50", "log_lvl": "INFO", "log_message": {"message_id": 4471, "message_date": "2023-03-22 23:36:49+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:36:50", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 20:36:50", "log_lvl": "INFO", "log_message": {"message_id": 4471, "message_date": "2023-03-22 23:36:49+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:36:50.359769", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:36:51", "log_lvl": "INFO", "log_message": Got difference for channel 1871060170 updates}
+{"log_time": "22 Mar 2023 20:37:42", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 20:37:55", "log_lvl": "INFO", "log_message": {"message_id": 4472, "message_date": "2023-03-22 23:37:55+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:37:56", "log_lvl": "INFO", "log_message": {"message_id": 4472, "message_date": "2023-03-22 23:37:55+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:37:56.092620", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:39:40", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:40:17", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:40:30", "log_lvl": "INFO", "log_message": {"message_id": 4473, "message_date": "2023-03-22 23:40:30+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:40:30", "log_lvl": "INFO", "log_message": {"message_id": 4473, "message_date": "2023-03-22 23:40:30+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:40:30.552956", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:40:52", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 20:40:52", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:42:42", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 20:43:59", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 20:45:46", "log_lvl": "INFO", "log_message": {"message_id": 4474, "message_date": "2023-03-22 23:45:46+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:45:47", "log_lvl": "INFO", "log_message": {"message_id": 4474, "message_date": "2023-03-22 23:45:46+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:45:47.116129", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:49:26", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 20:51:14", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 20:58:51", "log_lvl": "INFO", "log_message": {"message_id": 4475, "message_date": "2023-03-22 23:58:51+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:58:51", "log_lvl": "INFO", "log_message": {"message_id": 4475, "message_date": "2023-03-22 23:58:51+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:58:51.385102", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:58:59", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 20:59:44", "log_lvl": "INFO", "log_message": {"message_id": 4476, "message_date": "2023-03-22 23:59:44+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 20:59:44", "log_lvl": "INFO", "log_message": {"message_id": 4476, "message_date": "2023-03-22 23:59:44+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-22 23:59:44.622875", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 20:59:44", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 20:59:45", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 21:00:33", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 21:05:33", "log_lvl": "INFO", "log_message": {"message_id": 4477, "message_date": "2023-03-23 00:05:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:05:34", "log_lvl": "INFO", "log_message": {"message_id": 4477, "message_date": "2023-03-23 00:05:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:05:34.205959", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:09:20", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:09:56", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:10:00", "log_lvl": "INFO", "log_message": {"message_id": 4478, "message_date": "2023-03-23 00:10:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:10:00", "log_lvl": "INFO", "log_message": {"message_id": 4478, "message_date": "2023-03-23 00:10:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:10:00.365475", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:12:57", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:13:33", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:13:33", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 21:13:50", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:13:59", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:20:47", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:20:47", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 21:21:24", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:23:12", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 21:23:12", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:23:12", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:23:12", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 21:23:48", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:28:20", "log_lvl": "INFO", "log_message": Got difference for channel 1558324974 updates}
+{"log_time": "22 Mar 2023 21:28:47", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:29:00", "log_lvl": "INFO", "log_message": Got difference for channel 1154812972 updates}
+{"log_time": "22 Mar 2023 21:29:24", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:31:20", "log_lvl": "INFO", "log_message": {"message_id": 4479, "message_date": "2023-03-23 00:31:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:31:21", "log_lvl": "INFO", "log_message": {"message_id": 4479, "message_date": "2023-03-23 00:31:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:31:21.020833", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:32:11", "log_lvl": "INFO", "log_message": {"message_id": 4480, "message_date": "2023-03-23 00:32:11+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:32:11", "log_lvl": "INFO", "log_message": {"message_id": 4480, "message_date": "2023-03-23 00:32:11+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:32:11.695462", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:32:12", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 21:32:12", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 21:33:16", "log_lvl": "INFO", "log_message": {"message_id": 4481, "message_date": "2023-03-23 00:33:16+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:33:16", "log_lvl": "INFO", "log_message": {"message_id": 4481, "message_date": "2023-03-23 00:33:16+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:33:16.833345", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:34:01", "log_lvl": "INFO", "log_message": Got difference for channel 1869235245 updates}
+{"log_time": "22 Mar 2023 21:34:08", "log_lvl": "INFO", "log_message": {"message_id": 4482, "message_date": "2023-03-23 00:34:08+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:34:08", "log_lvl": "INFO", "log_message": {"message_id": 4482, "message_date": "2023-03-23 00:34:08+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:34:08.643948", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:34:08", "log_lvl": "INFO", "log_message": Got difference for channel 1597010576 updates}
+{"log_time": "22 Mar 2023 21:34:08", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 21:34:09", "log_lvl": "INFO", "log_message": Got difference for channel 1869235245 updates}
+{"log_time": "22 Mar 2023 21:34:09", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 21:34:09", "log_lvl": "INFO", "log_message": Got difference for channel 1885038445 updates}
+{"log_time": "22 Mar 2023 21:35:30", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:37:19", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:37:19", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 21:37:20", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 21:41:05", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:43:31", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:44:00", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:44:08", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:44:12", "log_lvl": "INFO", "log_message": {"message_id": 4483, "message_date": "2023-03-23 00:44:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:44:13", "log_lvl": "INFO", "log_message": {"message_id": 4483, "message_date": "2023-03-23 00:44:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:44:13.118495", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:45:38", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:45:43", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:46:17", "log_lvl": "INFO", "log_message": {"message_id": 4484, "message_date": "2023-03-23 00:46:17+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 21:46:17", "log_lvl": "INFO", "log_message": {"message_id": 4484, "message_date": "2023-03-23 00:46:17+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 00:46:17.984412", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 21:48:50", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:50:19", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:54:04", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 21:55:52", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:56:28", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:58:53", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 21:59:00", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:00:01", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:00:39", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:01:05", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:02:58", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:04:08", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:04:42", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:07:33", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:08:41", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 22:08:41", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:09:18", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:09:18", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 22:11:04", "log_lvl": "INFO", "log_message": {"message_id": 4485, "message_date": "2023-03-23 01:11:04+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:11:04", "log_lvl": "INFO", "log_message": {"message_id": 4485, "message_date": "2023-03-23 01:11:04+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:11:04.583450", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:11:48", "log_lvl": "INFO", "log_message": {"message_id": 4486, "message_date": "2023-03-23 01:11:48+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:11:48", "log_lvl": "INFO", "log_message": {"message_id": 4486, "message_date": "2023-03-23 01:11:48+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:11:48.531083", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:11:49", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 22:11:49", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 22:14:00", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:14:02", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 22:14:02", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:14:02", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 22:14:03", "log_lvl": "INFO", "log_message": Got difference for channel 1558324974 updates}
+{"log_time": "22 Mar 2023 22:16:06", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:16:13", "log_lvl": "INFO", "log_message": {"message_id": 4487, "message_date": "2023-03-23 01:16:13+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:16:13", "log_lvl": "INFO", "log_message": {"message_id": 4487, "message_date": "2023-03-23 01:16:13+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:16:13.862497", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:22:20", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:22:56", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:28:41", "log_lvl": "INFO", "log_message": {"message_id": 4488, "message_date": "2023-03-23 01:28:41+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:28:41", "log_lvl": "INFO", "log_message": {"message_id": 4488, "message_date": "2023-03-23 01:28:41+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:28:41.681858", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:29:00", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:29:33", "log_lvl": "INFO", "log_message": {"message_id": 4489, "message_date": "2023-03-23 01:29:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:29:33", "log_lvl": "INFO", "log_message": {"message_id": 4489, "message_date": "2023-03-23 01:29:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:29:33.674448", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:29:34", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 22:29:34", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 22:29:46", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:30:26", "log_lvl": "INFO", "log_message": {"message_id": 4490, "message_date": "2023-03-23 01:30:26+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:30:27", "log_lvl": "INFO", "log_message": {"message_id": 4490, "message_date": "2023-03-23 01:30:26+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:30:27.160995", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:31:06", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:32:36", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:33:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:33:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:34:52", "log_lvl": "INFO", "log_message": {"message_id": 4491, "message_date": "2023-03-23 01:34:52+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:34:52", "log_lvl": "INFO", "log_message": {"message_id": 4491, "message_date": "2023-03-23 01:34:52+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:34:52.689972", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:35:49", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:37:08", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:37:42", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:39:18", "log_lvl": "INFO", "log_message": {"message_id": 4492, "message_date": "2023-03-23 01:39:17+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:39:18", "log_lvl": "INFO", "log_message": {"message_id": 4492, "message_date": "2023-03-23 01:39:17+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:39:18.335699", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:40:12", "log_lvl": "INFO", "log_message": {"message_id": 4493, "message_date": "2023-03-23 01:40:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:40:12", "log_lvl": "INFO", "log_message": {"message_id": 4493, "message_date": "2023-03-23 01:40:12+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:40:12.829235", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:41:15", "log_lvl": "INFO", "log_message": {"message_id": 4494, "message_date": "2023-03-23 01:41:15+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:41:15", "log_lvl": "INFO", "log_message": {"message_id": 4494, "message_date": "2023-03-23 01:41:15+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:41:15.927473", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:42:06", "log_lvl": "INFO", "log_message": {"message_id": 4495, "message_date": "2023-03-23 01:42:06+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:42:07", "log_lvl": "INFO", "log_message": {"message_id": 4495, "message_date": "2023-03-23 01:42:06+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:42:07.003174", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:42:07", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 22:42:07", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 22:42:54", "log_lvl": "INFO", "log_message": {"message_id": 4496, "message_date": "2023-03-23 01:42:54+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:42:54", "log_lvl": "INFO", "log_message": {"message_id": 4496, "message_date": "2023-03-23 01:42:54+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:42:54.650309", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:46:20", "log_lvl": "INFO", "log_message": {"message_id": 4497, "message_date": "2023-03-23 01:46:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:46:21", "log_lvl": "INFO", "log_message": {"message_id": 4497, "message_date": "2023-03-23 01:46:20+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:46:21.031519", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:47:09", "log_lvl": "INFO", "log_message": {"message_id": 4498, "message_date": "2023-03-23 01:47:09+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:47:09", "log_lvl": "INFO", "log_message": {"message_id": 4498, "message_date": "2023-03-23 01:47:09+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:47:09.397740", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:50:15", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:50:50", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:51:22", "log_lvl": "INFO", "log_message": {"message_id": 4499, "message_date": "2023-03-23 01:51:22+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 22:51:22", "log_lvl": "INFO", "log_message": {"message_id": 4499, "message_date": "2023-03-23 01:51:22+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 01:51:22.577451", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 22:51:22", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:51:22", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:51:22", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 22:51:47", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:52:31", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:55:52", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:56:26", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:56:26", "log_lvl": "INFO", "log_message": Got difference for channel 1616779032 updates}
+{"log_time": "22 Mar 2023 22:59:01", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 22:59:01", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 22:59:01", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 23:05:18", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:05:50", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:09:11", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:09:11", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 23:09:44", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 23:09:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:09:45", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 23:10:51", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:12:32", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:12:32", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:21:48", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:22:51", "log_lvl": "INFO", "log_message": {"message_id": 4500, "message_date": "2023-03-23 02:22:51+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:22:51", "log_lvl": "INFO", "log_message": {"message_id": 4500, "message_date": "2023-03-23 02:22:51+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:22:51.505736", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:23:36", "log_lvl": "INFO", "log_message": {"message_id": 4501, "message_date": "2023-03-23 02:23:36+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:23:37", "log_lvl": "INFO", "log_message": {"message_id": 4501, "message_date": "2023-03-23 02:23:36+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:23:37.144016", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:23:37", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 23:23:37", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 23:24:35", "log_lvl": "INFO", "log_message": {"message_id": 4502, "message_date": "2023-03-23 02:24:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:24:36", "log_lvl": "INFO", "log_message": {"message_id": 4502, "message_date": "2023-03-23 02:24:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:24:36.202265", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:25:29", "log_lvl": "INFO", "log_message": {"message_id": 4503, "message_date": "2023-03-23 02:25:29+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:25:29", "log_lvl": "INFO", "log_message": {"message_id": 4503, "message_date": "2023-03-23 02:25:29+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:25:29.765652", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:25:30", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 23:25:30", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 23:26:01", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:27:16", "log_lvl": "INFO", "log_message": {"message_id": 4504, "message_date": "2023-03-23 02:27:16+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:27:17", "log_lvl": "INFO", "log_message": {"message_id": 4504, "message_date": "2023-03-23 02:27:16+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:27:17.007265", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:27:44", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:28:19", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:29:01", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 23:31:08", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:31:42", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:31:42", "log_lvl": "INFO", "log_message": {"message_id": 4505, "message_date": "2023-03-23 02:31:42+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:31:42", "log_lvl": "INFO", "log_message": {"message_id": 4505, "message_date": "2023-03-23 02:31:42+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:31:42.813554", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:33:24", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:33:24", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:33:24", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 23:33:48", "log_lvl": "INFO", "log_message": {"message_id": 4506, "message_date": "2023-03-23 02:33:48+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:33:49", "log_lvl": "INFO", "log_message": {"message_id": 4506, "message_date": "2023-03-23 02:33:48+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:33:49.222769", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:33:57", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:34:31", "log_lvl": "INFO", "log_message": Got difference for channel 1884409528 updates}
+{"log_time": "22 Mar 2023 23:34:31", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:34:32", "log_lvl": "INFO", "log_message": Got difference for channel 1741354193 updates}
+{"log_time": "22 Mar 2023 23:35:40", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:44:01", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "22 Mar 2023 23:48:13", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:48:40", "log_lvl": "INFO", "log_message": {"message_id": 4507, "message_date": "2023-03-23 02:48:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:48:40", "log_lvl": "INFO", "log_message": {"message_id": 4507, "message_date": "2023-03-23 02:48:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:48:40.881159", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:49:35", "log_lvl": "INFO", "log_message": {"message_id": 4508, "message_date": "2023-03-23 02:49:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "22 Mar 2023 23:49:35", "log_lvl": "INFO", "log_message": {"message_id": 4508, "message_date": "2023-03-23 02:49:35+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 02:49:35.565277", "message_target_id": -1001918218110}}
+{"log_time": "22 Mar 2023 23:49:36", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "22 Mar 2023 23:49:36", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "22 Mar 2023 23:51:48", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:56:10", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:58:47", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "22 Mar 2023 23:59:01", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "23 Mar 2023 00:01:14", "log_lvl": "INFO", "log_message": {"message_id": 4509, "message_date": "2023-03-23 03:01:14+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:01:14", "log_lvl": "INFO", "log_message": {"message_id": 4509, "message_date": "2023-03-23 03:01:14+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:01:14.957359", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:06:49", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "23 Mar 2023 00:14:02", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "23 Mar 2023 00:21:40", "log_lvl": "INFO", "log_message": {"message_id": 4510, "message_date": "2023-03-23 03:21:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:21:40", "log_lvl": "INFO", "log_message": {"message_id": 4510, "message_date": "2023-03-23 03:21:40+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:21:40.752157", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:21:49", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "23 Mar 2023 00:22:31", "log_lvl": "INFO", "log_message": {"message_id": 4511, "message_date": "2023-03-23 03:22:31+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:22:31", "log_lvl": "INFO", "log_message": {"message_id": 4511, "message_date": "2023-03-23 03:22:31+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:22:31.405626", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:22:31", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "23 Mar 2023 00:22:32", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "23 Mar 2023 00:29:02", "log_lvl": "INFO", "log_message": Got difference for account updates}
+{"log_time": "23 Mar 2023 00:29:05", "log_lvl": "INFO", "log_message": Got difference for channel 1079131412 updates}
+{"log_time": "23 Mar 2023 00:29:25", "log_lvl": "INFO", "log_message": {"message_id": 4512, "message_date": "2023-03-23 03:29:25+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:29:25", "log_lvl": "INFO", "log_message": {"message_id": 4512, "message_date": "2023-03-23 03:29:25+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:29:25.364805", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:31:52", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "23 Mar 2023 00:32:35", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
+{"log_time": "23 Mar 2023 00:34:13", "log_lvl": "INFO", "log_message": {"message_id": 4513, "message_date": "2023-03-23 03:34:13+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:34:13", "log_lvl": "INFO", "log_message": {"message_id": 4513, "message_date": "2023-03-23 03:34:13+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:34:13.662810", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:34:28", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6929, "message_date": "2023-03-23 03:34:27+00:00", "command_sent": "/start", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:34:29", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6929, "message_date": "2023-03-23 03:34:27+00:00", "command_sent": "/start", "log_message": "Help message sent to user."}}
+{"log_time": "23 Mar 2023 00:34:36", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6933, "message_date": "2023-03-23 03:34:36+00:00", "command_sent": "/view_source_channels", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:34:37", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6933, "message_date": "2023-03-23 03:34:36+00:00", "command_sent": "/view_source_channels", "log_message": "Source channels/chats/groups are:\n1: -1001821311139"}}
+{"log_time": "23 Mar 2023 00:34:38", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6935, "message_date": "2023-03-23 03:34:38+00:00", "command_sent": "/view_target_channels", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:34:39", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6935, "message_date": "2023-03-23 03:34:38+00:00", "command_sent": "/view_target_channels", "log_message": "Target channels/chats/groups are:\n1: -1001918218110"}}
+{"log_time": "23 Mar 2023 00:35:00", "log_lvl": "INFO", "log_message": {"message_id": 4514, "message_date": "2023-03-23 03:35:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:35:00", "log_lvl": "INFO", "log_message": {"message_id": 4514, "message_date": "2023-03-23 03:35:00+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:35:00.716045", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:35:01", "log_lvl": "INFO", "log_message": Got difference for channel 1821311139 updates}
+{"log_time": "23 Mar 2023 00:35:01", "log_lvl": "INFO", "log_message": Got difference for channel 1818165421 updates}
+{"log_time": "23 Mar 2023 00:35:32", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6937, "message_date": "2023-03-23 03:35:32+00:00", "command_sent": "/add_target_channel -1001792304302", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:35:32", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6937, "message_date": "2023-03-23 03:35:32+00:00", "command_sent": "/add_target_channel -1001792304302", "log_message": "Please be sure that you are trying to add Chat ID into target list. Chat ID is is not the username. Please add one target in one message."}}
+{"log_time": "23 Mar 2023 00:35:36", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6939, "message_date": "2023-03-23 03:35:36+00:00", "command_sent": "/add_target_channel 1001792304302", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:35:36", "log_lvl": "INFO", "log_message": {"log_message": "Target list updated."}}
+{"log_time": "23 Mar 2023 00:35:36", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6939, "message_date": "2023-03-23 03:35:36+00:00", "command_sent": "/add_target_channel 1001792304302", "log_message": "New target 1001792304302 is added into your target list.\n\nYour new target list is:\n\n1: -1001918218110\n2: 1001792304302\n\nYour seperate_channels setting is changed to 0. If you need this feature please set it for 1 again with /seperate_channels command."}}
+{"log_time": "23 Mar 2023 00:35:56", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6941, "message_date": "2023-03-23 03:35:56+00:00", "command_sent": "/add_target_channel 1001918218110", "log_message": "Message Captured."}}
+{"log_time": "23 Mar 2023 00:35:56", "log_lvl": "INFO", "log_message": {"log_message": "Target list updated."}}
+{"log_time": "23 Mar 2023 00:35:56", "log_lvl": "INFO", "log_message": {"bot_interaction": true, "message_id": 6941, "message_date": "2023-03-23 03:35:56+00:00", "command_sent": "/add_target_channel 1001918218110", "log_message": "New target 1001918218110 is added into your target list.\n\nYour new target list is:\n\n1: -1001918218110\n2: 1001792304302\n3: 1001918218110"}}
+{"log_time": "23 Mar 2023 00:36:33", "log_lvl": "INFO", "log_message": {"message_id": 4515, "message_date": "2023-03-23 03:36:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": false, "log_message": "Message Captured.", "message_forward_date": "N/A", "message_target_id": "N/A"}}
+{"log_time": "23 Mar 2023 00:36:33", "log_lvl": "INFO", "log_message": {"message_id": 4515, "message_date": "2023-03-23 03:36:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:36:33.516132", "message_target_id": -1001918218110}}
+{"log_time": "23 Mar 2023 00:36:33", "log_lvl": "INFO", "log_message": {"message_id": 4515, "message_date": "2023-03-23 03:36:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:36:33.895810", "message_target_id": 1001792304302}}
+{"log_time": "23 Mar 2023 00:36:34", "log_lvl": "INFO", "log_message": {"message_id": 4515, "message_date": "2023-03-23 03:36:33+00:00", "message_source_id": 1821311139, "is_message_forwarded": true, "log_message": "Message forwarded", "message_forward_date": "2023-03-23 03:36:34.116425", "message_target_id": 1001918218110}}
+{"log_time": "23 Mar 2023 00:36:49", "log_lvl": "INFO", "log_message": Got difference for channel 1578688013 updates}
